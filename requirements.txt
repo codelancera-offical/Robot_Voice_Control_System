@@ -1,0 +1,4 @@
+dashscope==1.23.1
+openai==1.75.0
+vosk==0.3.45
+pypinyin==0.54.0

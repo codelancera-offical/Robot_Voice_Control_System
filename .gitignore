@@ -1,0 +1,19 @@
+# Python .gitignore - 最简洁版
+
+# Python 编译和运行时文件
+*.pyc
+__pycache__/
+
+# 虚拟环境
+venv/
+env/
+
+# IDE/编辑器相关
+.idea/
+.vscode/
+
+# 操作系统文件
+.DS_Store
+
+# 敏感信息/本地配置
+.env
