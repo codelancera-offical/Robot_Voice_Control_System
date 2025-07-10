@@ -10,7 +10,7 @@ git clone https://github.com/codelancera-offical/Robot_Voice_Control_System.git
 
 ### 2. 进入目录，安装依赖
 ```sh
-cd TonyPi_Voice_Integrate_System
+cd Robot_Voice_Control_System
 pip install -r requirement.txt
 ```
 ### 3. 执行整合系统主函数
